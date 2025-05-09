@@ -1,0 +1,13 @@
+flask
+watchdog
+python-dotenv
+openai
+python-docx
+python-pptx
+pandas
+PyMuPDF
+pdf2image
+pillow
+openpyxl
+tesseract
+striprtf
